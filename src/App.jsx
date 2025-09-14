@@ -5,6 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import About from "./pages/About";
 import Hero from "./pages/Hero";
+import Footer from "./components/Footer";
 
 const App = () => {
 
@@ -22,6 +23,7 @@ const App = () => {
             <Route path="/" element={<> <Hero /><About /> </>} />
             <Route path="/home" element={<> <Hero /><About /> </>} />
           </Routes>
+          <Footer/>
         </main>
       </div>
     </>
