@@ -27,7 +27,7 @@ const About = () => {
                 >
                 Our mission is to revolutionize the way people consume water by ensuring purity, longevity, and health benefits in every drop.
               </p>
-              <button className="rounded-[20px] bg-blue-900 px-4 py-2 text-white" data-aos="fade-up">Learn more <i className="fa-solid fa-arrow-right"></i></button>
+              <button className="rounded-[20px] bg-blue-900 px-4 py-2 text-white" >Learn more <i className="fa-solid fa-arrow-right"></i></button>
 
             </div>
             <div className="md:w-1/2 w-full h-[600px] md:h-[450px] relative shadow-xl border-8 border-white rounded-[30px] flex items-center justify-center" >
