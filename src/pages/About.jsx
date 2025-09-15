@@ -32,7 +32,7 @@ const About = () => {
             </div>
             <div className="md:w-1/2 w-full h-[600px] md:h-[450px] relative shadow-xl border-8 border-white rounded-[30px] flex items-center justify-center" >
               <img
-                className="absolute inset-0 h-full w-full object-cover rounded-[30px]"
+                className="absolute inset-0 h-full w-full object-cover rounded-[20px]"
                 src={about}
                 alt="logo"
               />

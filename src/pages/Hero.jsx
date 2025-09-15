@@ -31,7 +31,7 @@ const Hero = () => {
                 Empire Blue Pvt. Ltd. We prioritize health, innovation, and sustainability we are committed to seating new industry standards and providing a safe, reliable and beneficial hydration solution for people worldwide.
               </p>
               <div className=" flex justify-center">
-                <button className=" rounded-[20px] bg-blue-900 px-3 py-1 text-white shadow-[2px_3px_40px_8px_rgba(0,84,231,0.18),-1px_-1px_6px_0_rgba(0,84,231,0.06)] ">Contact Us <i className="fa-solid fa-arrow-right"></i></button>
+                <button className=" rounded-[20px] bg-blue-900 px-4 py-2 text-white shadow-[2px_3px_40px_8px_rgba(0,84,231,0.18),-1px_-1px_6px_0_rgba(0,84,231,0.06)] ">Contact Us <i className="fa-solid fa-arrow-right"></i></button>
               </div>
             </div>
           </div>

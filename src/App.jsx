@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <>
-      <div className="bg-[#D7E0E7] h-screen overflow-auto ">
+      <div className="bg-[#d7e0e7ef] h-screen overflow-auto">
         <Navbar />
         <main className="">
           <Routes>
